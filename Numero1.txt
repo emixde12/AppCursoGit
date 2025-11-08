@@ -1,4 +1,5 @@
 Hola, esta es la primera prueba
+
 ----------------------------------------------------------------------------------------------
 Segunda prueba
 ----------------------------------------------------------------------------------------------
@@ -7,3 +8,10 @@ Commit desde Hithub
 Aqui se pone la informacion, desde otra rama donde luego sera aprobada para mandarla al main
  informacion
 ----------------------------------------------------------------------------------------------
+Segunda prueba
+----------------------------------------------------------------------------------------------
+Mi nombre es: Ian Emiliano Valdez Ramirez.
+y esta es una prueba para verificar que la rama de nombres se 
+guardara en el commit para el main.
+----------------------------------------------------------------------------------------------
+
