@@ -3,9 +3,9 @@ Hola, esta es la primera prueba
 ----------------------------------------------------------------------------------------------
 Segunda prueba
 ----------------------------------------------------------------------------------------------
-Commit desde Hithub
+Commit desde Github
 ----------------------------------------------------------------------------------------------
-Aqui se pone la informacion, desde otra rama donde luego sera aprobada para mandarla al main
+Aquí se pone la informacion, desde otra rama donde luego sera aprobada para mandarla al main
  informacion
 ----------------------------------------------------------------------------------------------
 Segunda prueba
@@ -17,6 +17,12 @@ guardara en el commit para el main.
 
 probando cosas
 
-Cambios en el texto (otra peueba)gi
+Cambios en el texto (otra prueba)
 
 Este commit si  esta completo :D
+
+----------------------------------------------------------------------------------------------
+
+Se le dio formato ( Para poder ver como funciona Issues)
+
+----------------------------------------------------------------------------------------------
